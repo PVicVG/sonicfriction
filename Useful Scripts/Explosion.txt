@@ -1,0 +1,4 @@
+/* Create the Sound Effect */
+sound_play(snd_enemy_destroy);
+/* Create Explosion */
+scr_dummy_effect(spr_enemy_explosion,0.2,x,y,1);
