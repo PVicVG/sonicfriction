@@ -1,0 +1,4 @@
+//When bigger the number,slower the BG is, the limit is 0.999... but well
+//this is for horizontal, not sure about the vertical scrolling
+//Usage: draw_background_tiled(background file name, view_xview[view_current] * bg speed, y position);
+//Example: draw_background_tiled(bg_4, view_xview[view_current] * 0.910, 0);
